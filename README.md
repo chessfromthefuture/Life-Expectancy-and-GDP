@@ -1,18 +1,18 @@
 Life Expectancy and GDP Analysis
 This project analyzes the relationship between GDP and life expectancy across six nations over time. Using Python for data analysis and visualization, the project explores trends, correlations, and distributions to uncover meaningful insights about public health and economic growth.
 
-Table of Contents
-Introduction
-Objectives
-Data Description
-Tools and Libraries Used
-Methodology
-Key Findings
-Conclusions
-Future Scope
-Usage Instructions
-Introduction
-Economic growth and public health are closely linked. This project aims to explore how GDP influences life expectancy, identify trends over time, and assess whether economic prosperity translates to better health outcomes.
+1. Table of Contents
+2. Introduction
+3. Objectives
+4. Data Description
+5. Tools and Libraries Used
+6. Methodology
+7. Key Findings
+8. Conclusions
+9. Future Scope
+10. Usage Instructions
+11. Introduction
+12. Economic growth and public health are closely linked. This project aims to explore how GDP influences life expectancy, identify trends over time, and assess whether economic prosperity translates to better health outcomes.
 
 Objectives
 Analyze trends in life expectancy over time for six nations.
