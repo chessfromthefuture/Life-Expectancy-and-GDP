@@ -1,21 +1,5 @@
-<<<<<<< HEAD
-Life Expectancy and GDP Analysis
-This project analyzes the relationship between GDP and life expectancy across six nations over time. Using Python for data analysis and visualization, the project explores trends, correlations, and distributions to uncover meaningful insights about public health and economic growth.
 
-Table of Contents
-Introduction
-Objectives
-Data Description
-Tools and Libraries Used
-Methodology
-Key Findings
-Conclusions
-Future Scope
-Usage Instructions
-Introduction
-Economic growth and public health are closely linked. This project aims to explore how GDP influences life expectancy, identify trends over time, and assess whether economic prosperity translates to better health outcomes.
-
-Objectives
+# Objectives
 Analyze trends in life expectancy over time for six nations.
 Investigate GDP growth patterns for these nations.
 Assess the correlation between GDP and life expectancy.
@@ -46,7 +30,7 @@ Calculated statistical measures like correlation coefficients and averages.
 Insights Extraction:
 
 Answered specific questions about trends, correlations, and distributions.
-Key Findings
+# Key Findings
 Life Expectancy Trends:
 Increased over time in all six nations.
 GDP Trends:
@@ -68,20 +52,21 @@ Usage Instructions
 Clone the Repository:
 
 
-bash
+
 git clone https://github.com/yourusername/life-expectancy-gdp-analysis.git
 cd life-expectancy-gdp-analysis
 Install Required Libraries: Ensure you have Python installed, then run:
 
-bash
+
 pip install -r requirements.txt
 Run the Notebook: Open the Jupyter Notebook and execute the code cells:
 
-bash
+
 jupyter notebook analysis.ipynb
 View Results:
+
 =======
-Life Expectancy and GDP Analysis  
+# Life Expectancy and GDP Analysis  
 This project analyzes the relationship between GDP and life expectancy across six nations over time. Using Python for data analysis and visualization, the project explores trends, correlations, and distributions to uncover meaningful insights about public health and economic growth.
   
 1. Table of Contents
