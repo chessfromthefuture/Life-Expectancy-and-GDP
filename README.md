@@ -15,15 +15,15 @@ This project analyzes the relationship between GDP and life expectancy across si
 12. Economic growth and public health are closely linked. This project aims to explore how GDP influences life expectancy, identify trends over time, and assess whether economic prosperity translates to better health outcomes.
 
 Objectives
-Analyze trends in life expectancy over time for six nations.
-Investigate GDP growth patterns for these nations.
-Assess the correlation between GDP and life expectancy.
-Calculate average life expectancy across the nations.
-Explore the distribution of life expectancy values.
-Data Description
-The dataset contains the following columns:
+Analyze trends in life expectancy over time for six nations.  
+Investigate GDP growth patterns for these nations.  
+Assess the correlation between GDP and life expectancy.  
+Calculate average life expectancy across the nations.  
+Explore the distribution of life expectancy values.  
+Data Description  
+The dataset contains the following columns:  
 
-Country: Name of the country.
+Country: Name of the country.  
 Year: Year of observation.
 Life expectancy at birth (years): Average life expectancy at birth.
 GDP: Gross Domestic Product in USD.
